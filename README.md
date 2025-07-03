@@ -3,6 +3,10 @@ Video -
 
 
 
+https://github.com/user-attachments/assets/5f2821eb-c5c8-4a66-bd4a-1c13bb5853e2
+
+
+
 A modern, responsive user management dashboard built with Next.js, TypeScript, Tailwind CSS, and Firestore. Features complete CRUD operations with Docker containerization support.
 
 ## 🚀 Features
