@@ -1,4 +1,9 @@
 # Full-Stack User Management Dashboard
+Video - 
+
+https://github.com/user-attachments/assets/6170ff91-2856-4783-b782-0dae18565eb6
+
+
 
 A modern, responsive user management dashboard built with Next.js, TypeScript, Tailwind CSS, and Firestore. Features complete CRUD operations with Docker containerization support.
 
@@ -23,6 +28,8 @@ A modern, responsive user management dashboard built with Next.js, TypeScript, T
 - **State Management**: React hooks with optimistic updates
 
 ## 📦 Installation
+
+
 
 ### Prerequisites
 
